@@ -3,7 +3,7 @@
 This repository contains the source files for the Xpin hardware project.
 The file name represents the actual board.
 
-For example:  XP-BLY6803 Files.zip contains for the XP-BLY6803 display board.  XP-BLY6803 is printed on the board.
+For example:  XP-BLY6803.zip contains for the XP-BLY6803 display board.  XP-BLY6803 is printed on the board.
 
 ## Included Files
 
